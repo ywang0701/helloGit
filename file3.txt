@@ -1,0 +1,2 @@
+This is file3
+This is the 2nd line of the file3 for dev update
